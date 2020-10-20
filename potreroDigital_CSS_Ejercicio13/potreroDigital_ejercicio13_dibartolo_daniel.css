@@ -1,0 +1,21 @@
+p {
+    font-size: 16px;
+}
+
+
+.rojo {
+    color: red;
+    background-color: blue;
+}
+
+.verde {
+    color: green;
+}
+
+h2 {
+    font-family: Helvetica;
+}
+
+#italica {
+    font-style: italic;
+}

@@ -1,0 +1,10 @@
+@media screen and (max-width: 575px){
+    .blanco-chico {
+        background-color: white;
+    }
+
+
+    .morado {
+        background-color: #9a2107 !important;
+    }
+}
